@@ -1,0 +1,12 @@
+#gallery {
+  height: 500px;
+  position: relative;
+  margin: auto;
+  padding-left: 50px;
+  top: 60px;
+  font-family: "Grenze Gotisch", cursive;
+}
+
+#gallery h1 {
+  color: #005f69;
+}

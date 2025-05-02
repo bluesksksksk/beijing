@@ -1,0 +1,8 @@
+.redirect {
+  background-color: #37375e;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.redirect:hover {
+  background-color: #5c5cb0;
+}

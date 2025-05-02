@@ -1,0 +1,40 @@
+#bg-img {
+  background-size: 1450px;
+  height: 500px;
+  filter: contrast(90%);
+  background-attachment: fixed;
+}
+
+#bg-img p {
+  font-size: 150px;
+  color: #ffca62;
+  text-align: center;
+  font-family: "Long Cang", cursive;
+  margin: auto;
+}
+
+#bg-img h2 {
+  font-family: "Grenze Gotisch", cursive;
+  font-size: 25px;
+  position: absolute;
+  right: 380px;
+  color: #aa381e;
+}
+
+#name {
+  font-family: "Long Cang", cursive;
+  position: relative;
+  top: 25px;
+  left: 70px;
+  margin: auto;
+}
+
+@media (max-width: 600px) {
+  #bg-img p {
+    font-size: 110px;
+  }
+
+  #bg-img h2 {
+    right: 250px;
+  }
+}

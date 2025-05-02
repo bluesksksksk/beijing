@@ -1,0 +1,9 @@
+.big-image img {
+  height: 370px;
+  width: 370px;
+}
+
+.small-images img {
+  height: 38px;
+  margin: 3px;
+}

@@ -1,0 +1,19 @@
+#category-guide {
+  position: relative;
+  height: 200px;
+  top: 30px;
+}
+
+#category-guide h3 {
+  font-family: "Grenze Gotisch", cursive;
+  color: #005f69;
+  text-align: center;
+  padding-top: 70px;
+  margin: auto;
+  display: block;
+}
+
+#category-guide img {
+  width: 100%;
+  height: 100%;
+}

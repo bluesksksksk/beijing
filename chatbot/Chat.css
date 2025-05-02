@@ -1,0 +1,21 @@
+.chat-container {
+  padding-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  overflow-y: auto;
+  height: 300px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.chat-container hr {
+  width: 95%;
+  color: lightgrey;
+}
+
+.char-request {
+  text-align: right;
+}
+
+.chat-response {
+  color: #aa381e;
+}

@@ -1,0 +1,34 @@
+nav {
+  background-color: #aa381e;
+  font-family: "Grenze Gotisch", cursive;
+  height: 44px;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+
+.logo {
+  color: #ffca62;
+  font-size: 20px;
+}
+
+nav menu {
+  display: flex;
+  list-style: none;
+  margin-top: 10px;
+}
+
+menu button {
+  border: none;
+  background-color: transparent;
+  font-family: "Grenze Gotisch", cursive;
+  font-size: 17px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+menu button:hover {
+  color: #ffca62;
+}

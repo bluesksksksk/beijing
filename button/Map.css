@@ -1,0 +1,23 @@
+#map-icon {
+  width: 40px;
+  display: block;
+  margin: auto;
+  position: relative;
+  top: -10px;
+}
+
+#sections {
+  padding: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 20px;
+  position: relative;
+  top: 0px;
+  background-color: #d44626;
+}
+
+.section-link {
+  text-align: center;
+  color: #ffca62;
+  font-family: "Grenze Gotisch", cursive;
+}

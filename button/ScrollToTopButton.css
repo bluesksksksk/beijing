@@ -1,0 +1,13 @@
+#back-to-top-box {
+  display: block;
+  position: fixed;
+  bottom: 20px;
+  right: 25px;
+  height: 50px;
+  width: 50px;
+  color: #ffca62;
+  background-color: #aa381e;
+  font-size: small;
+  text-align: center;
+  font-family: "Grenze Gotisch", cursive;
+}
